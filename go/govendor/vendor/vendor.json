@@ -1,6 +1,13 @@
 {
 	"comment": "",
 	"ignore": "test",
-	"package": [],
+	"package": [
+		{
+			"checksumSHA1": "3bFkQD3XBNGo7zFQEyFM7Ghk+W8=",
+			"path": "github.com/moul/anonuuid",
+			"revision": "41a716230888548b0d5f29b3f945d2f214bc76c8",
+			"revisionTime": "2018-04-02T02:35:09Z"
+		}
+	],
 	"rootPath": "github.com/moul/updep-examples/go/govendor"
 }
