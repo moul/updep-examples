@@ -1,0 +1,12 @@
+{
+	"ImportPath": "github.com/moul/updep-examples/go/godep",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/moul/anonuuid",
+			"Comment": "v1.0.0-25-g41a7162",
+			"Rev": "41a716230888548b0d5f29b3f945d2f214bc76c8"
+		}
+	]
+}
