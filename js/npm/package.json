@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "netsoul": "0.0.5"
+    "netsoul": "0.0.4"
   },
   "devDependencies": {},
   "scripts": {
