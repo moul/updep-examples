@@ -1,0 +1,4 @@
+package: github.com/moul/updep-examples/go/glide
+import:
+- package: github.com/moul/anonuuid
+  version: ^1.0.0
