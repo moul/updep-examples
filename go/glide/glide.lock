@@ -1,0 +1,6 @@
+hash: 62fdad1075043891fe70406c213b5bd2d7637e47650df62a9800b14a823779a9
+updated: 2018-04-02T14:11:50.162741+02:00
+imports:
+- name: github.com/moul/anonuuid
+  version: 4d26dd5fe6926ecbb245bb7d97f2e78805b191b9
+testImports: []
